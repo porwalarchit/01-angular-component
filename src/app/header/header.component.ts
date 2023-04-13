@@ -10,5 +10,7 @@ export class HeaderComponent {
   getSlogan(){
     return "This is a new Slogan for the web application"; 
   }
+
+  source: string = "https://img.freepik.com/free-photo/black-friday-elements-assortment_23-2149074075.jpg";
   
 }
